@@ -11,4 +11,4 @@ Add the tool to the path or navigate to the main directory and run the gebrex.py
 
 *3. Fill in the required fields and your project will be initialized.*
 
-![The initializing image](https://github.com/aaronmuli/gebrex/tree/main/assets/1.png)
+/assets/1.png
