@@ -10,3 +10,5 @@ Add the tool to the path or navigate to the main directory and run the gebrex.py
 *2. Type "gebrex -i" if its added to the path or type "python3 gebrex.py -i" in the project directory.*
 
 *3. Fill in the required fields and your project will be initialized.*
+
+![The initializing image](https://github.com/aaronmuli/gebrex/tree/main/assets/1.png)
